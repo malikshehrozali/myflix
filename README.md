@@ -76,18 +76,9 @@
 
 ### Backend
 - **Node.js** - JavaScript runtime environment
-- **Express.js** - Web application framework
-- **MongoDB** - NoSQL database
-- **Mongoose** - MongoDB object modeling
-- **JWT** - JSON Web Tokens for authentication
-- **bcryptjs** - Password hashing
 
 ### Additional Tools
-- **Cloudinary** - Image and video management
-- **Nodemailer** - Email service
-- **Multer** - File upload handling
-- **Cors** - Cross-Origin Resource Sharing
-- **Helmet** - Security middleware
+- **Vid Src** - For Playing Videos
 
 ## ⚡ Quick Start
 
